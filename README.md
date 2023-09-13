@@ -53,3 +53,9 @@ Hello! I'm Hao Luong, a seasoned developer with 8 years of experience under my b
 ![Web Components](https://img.shields.io/badge/Web%20Components-29ABE2?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+## Certificates
+[![AWS Solution Architect](https://img.shields.io/badge/AWS%20Solution%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/a0bdc898-2644-431c-b193-26d57bab5173/public_url)
+[![Scrum Master II](https://img.shields.io/badge/Scrum%20Master-519839?style=for-the-badge)](https://www.credly.com/badges/594c9c34-c619-472e-8c4d-a18bcbeb7ca6/public_url)
+[![Product Owner II](https://img.shields.io/badge/Product%20Owner-FF8B00?style=for-the-badge)](https://www.credly.com/badges/8e517073-2e75-455d-a8aa-3e89f390b117/public_url)
+
