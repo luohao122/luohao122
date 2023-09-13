@@ -59,3 +59,15 @@ Hello! I'm Hao Luong, a seasoned developer with 8 years of experience under my b
 [![Scrum Master II](https://img.shields.io/badge/Scrum%20Master-519839?style=for-the-badge)](https://www.credly.com/badges/594c9c34-c619-472e-8c4d-a18bcbeb7ca6/public_url)
 [![Product Owner II](https://img.shields.io/badge/Product%20Owner-FF8B00?style=for-the-badge)](https://www.credly.com/badges/8e517073-2e75-455d-a8aa-3e89f390b117/public_url)
 
+## Side Projects
+**Learn Vietnamese With Annie (React Native App)**
+
+Play Store:
+https://play.google.com/store/apps/details?id=com.learnvietnamesewithannie.annie&hl=en&gl=US
+
+Apple Store:
+https://apps.apple.com/us/app/learn-vietnamese-with-annie/id1592040181
+
+**Learn Vietnamese With Annie (Web App)**
+
+https://learnvietnamesewithannie.com/
