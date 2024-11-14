@@ -12,7 +12,7 @@ Hello! I'm Hao Luong, a seasoned developer with 8 years of experience under my b
 ![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![VueJs](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badgelogo=Rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)
 ![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
