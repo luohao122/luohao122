@@ -35,7 +35,7 @@ Hello! I'm Hao Luong, a seasoned developer with 10 years of experience under my 
 
 ## Kinda good at
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black)
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
